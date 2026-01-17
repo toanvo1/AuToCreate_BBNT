@@ -99,4 +99,4 @@ for _, r in df.iterrows():
 
     doc.save(os.path.join(OUTPUT_FOLDER, file_name))
 
-print("✅ DONE – {{ }} mode – stable & simple")
+print("✅ Chào mừng bạn đã hoàn thành việc tạo biên bản nghiệm thu gói cao cấp tự động của Minh Toàn!")
